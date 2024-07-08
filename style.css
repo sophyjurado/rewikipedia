@@ -1,0 +1,119 @@
+.container {
+  box-sizing: border-box;
+}
+
+.logowiki {
+  position: relative;
+  left: -1px;
+  height: 177px;
+  top: 1px;
+}
+.wikisoph {
+  position: relative;
+  left: 54px;
+  height: 177px;
+  top: -44px;
+}
+
+.enciclo {
+  position: relative;
+  left: 2px;
+  height: 177px;
+  top: -4px;
+}
+
+.menu {
+  width: 1200px;
+  margin: 0 auto;
+  justify-content: center;
+  top: 5px;
+}
+
+.menu {
+  list-style: none;
+  margin: 0 auto;
+  display: inline;
+  list-style: none;
+  background-color: #0a0f0f;
+  top: 800px;
+}
+
+#menu-h {
+  list-style: none;
+  padding: 0;
+  border-color: #26e6e6;
+  margin: 4px;
+  top: -130px;
+  position: relative;
+}
+
+#menu-h li {
+  display: inline;
+  top: 200px;
+  margin: 4px;
+  border: #0a0f0f;
+}
+
+#menu-h a {
+  display: inline;
+  color: rgb(11, 14, 16);
+  text-decoration: none;
+  padding: 10px;
+  display: inline-block;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  top: 800px;
+  border: #0a0f0f;
+}
+.titulo {
+  position: relative;
+  left: 12px;
+  height: 177px;
+  top: -149px;
+}
+
+.sophy {
+  position: relative;
+  left: 191px;
+  right: auto;
+  height: 177px;
+  top: -292px;
+  z-index: 0;
+}
+
+#contenido .sophypic {
+  position: relative;
+  width: auto;
+  top: -485px;
+}
+
+#contenido .sophy {
+  columns: 3;
+  position: relative;
+  left: 126px;
+  width: auto;
+  top: -285px;
+  display: flex;
+}
+
+.anchors {
+  position: relative;
+  left: 28px;
+  height: 177px;
+  top: -460px;
+}
+
+.links {
+  position: relative;
+  left: 28px;
+  height: 177px;
+  top: 119px;
+}
+.sop p {
+  display: inline-block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+}
